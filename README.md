@@ -3,7 +3,7 @@ I am a third-year student at Bangladesh University of Business and Technology (B
 I am an open-source Contributor and a web development addict.
 
 <!--
-**hrshammo/hrshammo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akashkumarnondi/akashkumarnondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,33 +17,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/hrshammo/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/akashkumarnondi/count.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hrshammo&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=akashkumarnondi&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akashkumarnondi&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumarnondi&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hrshammo&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=akashkumarnondi&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hrshammo&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=akashkumarnondi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
  <div align="center">
      
      
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=hrshammo&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=akashkumarnondi&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
  
 <div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrshammo/) 
  
-https://drive.google.com/drive/folders/1GDqTEacH6j2iJt--qsaag4x7Mxa87tq3?usp=sharing
